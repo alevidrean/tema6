@@ -1,0 +1,38 @@
+[
+  {
+    "nume": "Ale",
+    "post": "sef",
+    "data_angajarii": "2019-03-12",
+    "salariu": 7000
+  },
+  {
+    "nume": "Paul",
+    "post": "sef",
+    "data_angajarii": "2023-04-16",
+    "salariu": 1000
+  },
+  {
+    "nume": "Alex",
+    "post": "director",
+    "data_angajarii": "2023-04-12",
+    "salariu": 8000
+  },
+  {
+    "nume": "Ana",
+    "post": "lucrator",
+    "data_angajarii": "2023-04-10",
+    "salariu": 1000
+  },
+  {
+    "nume": "Ion",
+    "post": "lucator",
+    "data_angajarii": "2023-07-10",
+    "salariu": 5000
+  },
+  {
+    "nume": "Ale",
+    "post": "lucator",
+    "data_angajarii": "2023-08-13",
+    "salariu": 5000
+  }
+]
